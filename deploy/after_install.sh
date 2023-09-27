@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /home/ubuntu/simple-nodejs-app
+cd /home/ubuntu/nodejs-app
 
 npm install
