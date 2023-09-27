@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/simple-nodejs-app
+    destination: /home/ubuntu/nodejs-app
 hooks:
   AfterInstall:
     - location: deploy/after_install.sh
